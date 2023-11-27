@@ -1,2 +1,3 @@
 # calculadoraJS
-That's my first calculator in JS vanilla
+Esta es mi primera calculadora creada en JS, un proyecto simple pero perfecto para no quedarme quieto en mi preparación.
+
